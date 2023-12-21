@@ -1,0 +1,26 @@
+{
+    "people1": [
+        {
+            "name": "Nikhil",
+            "website":"gfg.com",
+            "from":"delhi"
+        },
+        {
+            "name":"Abhinav",
+            "website":"google.com",
+            "from":"Chennai"
+        }
+    ],
+    "people2":[
+        {
+            "name":"Anshul",
+            "website":"amazon.com",
+            "from":"banglore"
+        },
+        {
+            "name":"Akbar",
+            "website":"facebook.com",
+            "from":"hyderabad"
+        }
+    ]
+}
